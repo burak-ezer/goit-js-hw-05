@@ -1,0 +1,1 @@
+let getUserNames = (users) => users.map((user)=>user.name);
